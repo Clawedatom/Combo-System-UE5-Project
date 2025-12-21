@@ -1,17 +1,19 @@
-Combo System Project
+# Combo Combat System
+A gameplay prototype focused on building a state driven character controller and a responsive combo based combat system with animation support.
 
-Goal: Create a state driven character controller and a combo system with animations.
+The project was designed to explore attack chaining, player feedback, and clean separation of combat states.
 
-.State driven Player controller with attacking and combo mechanic.
-.Target Dummies to test the attacks on.
-.Sprinting and feedback systems.
+## My Focus
+- Implemented a state machine driven player controller
+- Built a combo attack system
+- Integrated sprinting and player feedback systems
+- Created target dummy actors to safely test combat interactions
 
-How To Run:
-1. Clone Project
-2. Open in Unity 6.
-3. Press Play.
+## Tech
+- Engine: Unity 6
+- Language: C#
+- Key systems: State machines, animation-driven combat, input handling, player feedback
 
-Controls:
-WASD - movement
-Left Click - Attack/ Combo
-Left Shift - Sprint
+## What I Learned / Would Improve
+- Gained experience structuring combat logic using clear state separation
+- To improve the project I would focus on animation blending.
