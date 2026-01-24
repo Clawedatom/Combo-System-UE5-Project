@@ -10,8 +10,8 @@ The project was designed to explore attack chaining, player feedback, and clean 
 - Created target dummy actors to safely test combat interactions
 
 ## Tech
-- Engine: Unity 6
-- Language: C#
+- Engine: Unreal Engine 5
+- Language: C++
 - Key systems: State machines, animation-driven combat, input handling, player feedback
 
 ## What I Learned / Would Improve
